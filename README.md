@@ -18,9 +18,7 @@ The Bike Sales Dashboard in Excel provides a comprehensive overview of sales dat
 
 [Dashboard](dashboard-snip.PNG)
 
-
-![Dashboard Snip](https://github.com/Anki-0330/Sales-Analysis-project/assets/149250698/d2418fe6-02a8-450f-9d94-812bf0f0e153)
-
+![Dashboard Snip](https://github.com/Anki-0330/Sales-Analysis-project/assets/149250698/0c9b9ae9-d8ae-4c11-bd73-d15cdbb14fba)
 
 
 #### Data Source
