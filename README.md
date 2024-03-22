@@ -16,6 +16,11 @@
 
 The Bike Sales Dashboard in Excel provides a comprehensive overview of sales data, focusing on average income and purchase count across different age brackets and commute distances. The dashboard features interactive elements and visualizations to help users gain valuable insights into customer behavior and market trends.
 
+[Dashboard](dashboard-snip.PNG)
+
+![Uploading Dashboard Snip.png…]()
+
+
 
 #### Data Source
 
